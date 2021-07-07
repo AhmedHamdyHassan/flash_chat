@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "144293453867",
+    "project_id": "flash-chat-app-9eacc",
+    "storage_bucket": "flash-chat-app-9eacc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144293453867:android:ee39141841b3173c728a6e",
+        "android_client_info": {
+          "package_name": "co.AhmedHamdy.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144293453867-g61u7t3qe6s86rmeoadjstprmurdi1ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVoRJtdJsCs5cdRxK7NRH_6N8GwbHAtP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144293453867-g61u7t3qe6s86rmeoadjstprmurdi1ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144293453867:android:a4efd262c1c99592728a6e",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144293453867-g61u7t3qe6s86rmeoadjstprmurdi1ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVoRJtdJsCs5cdRxK7NRH_6N8GwbHAtP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144293453867-g61u7t3qe6s86rmeoadjstprmurdi1ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
